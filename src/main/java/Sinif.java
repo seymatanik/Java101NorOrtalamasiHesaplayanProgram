@@ -31,7 +31,6 @@ public class Sinif {
         if (muzik<0 || muzik >100)
             muzik = 0 ;
 
-
         double avarage = (mat + kimya + fizik + turce + muzik) / 5;
 
         if (avarage <= 55) {
